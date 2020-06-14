@@ -1,7 +1,7 @@
-package per.jaceding.provider;
+package per.jaceding.jrpc.provider;
 
 import lombok.extern.slf4j.Slf4j;
-import per.jaceding.common.HelloService;
+import per.jaceding.jrpc.common.HelloService;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

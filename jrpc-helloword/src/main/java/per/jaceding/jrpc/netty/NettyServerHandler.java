@@ -1,10 +1,10 @@
-package per.jaceding.netty;
+package per.jaceding.jrpc.netty;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import lombok.extern.slf4j.Slf4j;
-import per.jaceding.common.HelloService;
-import per.jaceding.provider.HelloServiceImpl;
+import per.jaceding.jrpc.common.HelloService;
+import per.jaceding.jrpc.provider.HelloServiceImpl;
 
 /**
  * 服务端业务处理器

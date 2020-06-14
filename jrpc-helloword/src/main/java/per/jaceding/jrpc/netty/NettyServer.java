@@ -1,4 +1,4 @@
-package per.jaceding.netty;
+package per.jaceding.jrpc.netty;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;

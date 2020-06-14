@@ -1,9 +1,9 @@
-package per.jaceding.customer;
+package per.jaceding.jrpc.customer;
 
 import lombok.extern.slf4j.Slf4j;
-import per.jaceding.common.Constants;
-import per.jaceding.common.HelloService;
-import per.jaceding.netty.NettyClient;
+import per.jaceding.jrpc.common.Constants;
+import per.jaceding.jrpc.common.HelloService;
+import per.jaceding.jrpc.netty.NettyClient;
 
 import java.util.concurrent.TimeUnit;
 

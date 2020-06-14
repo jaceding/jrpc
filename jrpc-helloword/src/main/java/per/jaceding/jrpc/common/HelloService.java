@@ -1,4 +1,4 @@
-package per.jaceding.common;
+package per.jaceding.jrpc.common;
 
 /**
  * 公共接口

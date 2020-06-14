@@ -1,4 +1,4 @@
-package per.jaceding.netty;
+package per.jaceding.jrpc.netty;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;

@@ -1,7 +1,7 @@
-package per.jaceding.provider;
+package per.jaceding.jrpc.provider;
 
-import per.jaceding.common.Constants;
-import per.jaceding.netty.NettyServer;
+import per.jaceding.jrpc.common.Constants;
+import per.jaceding.jrpc.netty.NettyServer;
 
 /**
  * 服务提供者
