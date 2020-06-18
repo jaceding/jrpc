@@ -1,7 +1,9 @@
 # jrpc
 **jrpc** is a high-performance, java based, open source RPC framework.
 
-[TOC]
+* [jrpc](#jrpc)
+  * [jrpc\-helloworld](#jrpc-helloworld)
+  * [License](#license)
 
 ## jrpc-helloworld
 
